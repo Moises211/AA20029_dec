@@ -31,8 +31,7 @@
 | printf de C.                                  |
 |===============================================|
 | EJERCICIO 3:DIVISIÓN CON REGISTROS DE 32 BITS |
-| Acá pedimos datos al usuario para dividir;    |
-| además, se compara que no sea cero lo que     |
+| Se compara que no sea cero lo que             |
 | vendría a ser el divisor. Al final hacemos lo |
 | mismo de mostrar con printf lo que sería el   |
 | residuo y el cociente del resultado de la     |
